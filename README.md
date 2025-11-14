@@ -9,7 +9,7 @@ Sempre que o usuário aperta o botão, o sistema registra que ele bebeu água. S
 
 📁 2. Arquivos incluídos no repositório
 
-✔️ Código completo (sketch.ino)
+✔️ Código completo (hidratese.ino)
 ✔️ Imagens da montagem no Wokwi
 ✔️ Fluxo de funcionamento do sistema
 ✔️ Documentação dos componentes utilizados
